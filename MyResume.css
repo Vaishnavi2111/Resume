@@ -1,0 +1,33 @@
+body{
+    background-color: #dcdcdc;
+    border: 10px solid rgb(7, 7, 116);
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    color: red;
+    font-family: "Playfair Display", serif;
+}
+
+h2{
+    color: rgb(7, 7, 116);
+}
+
+hr{
+    height: 2px;
+    background-color: rgb(7, 7, 116);
+}
+
+/* Interests and Activities */
+#images{
+    margin-left: 100px;
+}
+
+/*Contact Details*/
+
+
+footer{
+    color: rgb(7, 7, 116);
+}
